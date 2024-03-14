@@ -1,4 +1,0 @@
-*CyberArk State of Remote Work Study, Dec 2020
- 67%   admit to finding workarounds to corporate security policies in order to be more productive
- Remote Employees are more prone to  Unintentional errors
- 

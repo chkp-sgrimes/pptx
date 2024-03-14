@@ -1,6 +1,0 @@
-Data Center
- HARMONY: 360° MALWARE PROTECTION BLOCK LATERAL MOVEMENT TO CORPORATE APPLICATIONS
- ACCESS BLOCKED  BASED ON DEVICE SECURITY POSTURE
- Access any application:  Web (Http/s) Remote Desktop (RDP) Remote Admin (SSH) Database (SQL)+
- Managed and/or unmanaged device
- 

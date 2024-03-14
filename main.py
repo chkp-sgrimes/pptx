@@ -27,7 +27,7 @@ structlog.configure(
 
 def get_paragraph_text(para: pptx.shapes.autoshape.Shape) -> str:
     text_disallowed = ["©", "[Internal Use]", "Thank you"]
-    char_disallowed = ["\x0b", "\n"]
+    char_disallowed = ["\x0b", "\n", ""]
     text: str = ""
 
     text = ''.join([' ' if i in char_disallowed else i for i in para.text]).strip(" ")
@@ -40,12 +40,12 @@ def get_paragraph_text(para: pptx.shapes.autoshape.Shape) -> str:
 
 def process_text_frames(shape_text_frames: list) -> str:
     slide_text: str = ''
-    additional_text = ''
+    additional_text: str = ''
 
     for para in shape_text_frames:
         additional_text = get_paragraph_text(para)
         if additional_text is not None:
-            slide_text = ' '.join([additional_text, slide_text])
+            slide_text = ''.join([additional_text, slide_text])
         else:
             continue
 
@@ -74,7 +74,9 @@ def process_shapes(shape_list: list) -> str:
     slide_text = process_text_frames(text_frames)
 
     groups = [_ for _ in shape_list if _.shape_type == MSO_SHAPE_TYPE.GROUP]
-    slide_text = ''.join([process_groups(groups), slide_text])
+
+    if groups:
+        slide_text = ''.join([process_groups(groups), slide_text])
 
     return slide_text
 

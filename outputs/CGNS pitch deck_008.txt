@@ -1,9 +1,0 @@
-Cloud-Aware
- Updated policies
- 2
- 1
- Asset changes
- Controller
- CHECK POINT IS CLOUD-READY
- 8
- 
