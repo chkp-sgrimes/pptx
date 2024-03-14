@@ -1,0 +1,33 @@
+Forensics report
+ Anti-Evasion engine
+ File-less attack detection engine
+ On-Device Anti-Bot engine
+ Dynamic Analysis of executables
+ Browser Extension Malicious JS
+ Threat Extraction
+ Sandboxing / Threat Emulation
+ Automatic Remediation of Zero-Day Malware
+ Smart Backup and Restoration
+ Disc-Encryption Prevention
+ File Encryption Detection
+ Family based signature
+ Metadata analyzer
+ Macro analyzer
+ Behavior analysis
+ Machine-generated signatures
+ Machine-generated intelligence
+ Reputation service
+ Malware classifiers
+ Similarity models
+ Zero-phishing
+ Anomaly detection
+ Behavioral guard
+ Deep learning
+ The industry’s best catch rate  Protecting against 25 out of NSA’s Top 25 Vulnerabilities  Being Exploited In the Wild
+ 2,000 Zero-Day Files Detected Daily
+ 150,000 Connected Networks
+ 13 Million Files Emulated
+ 3 Billion  Websites & Files 
+ 60+ AI & traditional engines
+ BEST ZERO-DAY PROTECTION  POWERED BY THE WORLD’S MOST POWERFUL THREAT INTELLIGENCE AND 60+ SECURITY ENGINES
+ 

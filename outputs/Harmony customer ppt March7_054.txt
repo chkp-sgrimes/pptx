@@ -1,0 +1,21 @@
+3
+ Secure Web Gateway
+ 11  Web Application & API protection
+ 6 Anti-Phishing
+ 9  Browser protection
+ 10 Device posture & compliance
+ 5  Data Loss Prevention
+ 8  Email Security
+ 7  Zero Trust Network Access (SDP)
+ 4  SaaS API
+ 2 Advanced Threat Prevention
+ 1 Next Generation Firewall
+ Internet
+ SaaS
+ IaaS
+ Email
+ Corporate
+ Client-based  or  clientless
+ 12
+ CLOUD-DELIVERED SECURITY (SASE) CONSOLIDATING 11 SECURITY SERVICES
+ 

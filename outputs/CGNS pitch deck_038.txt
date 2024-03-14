@@ -1,0 +1,11 @@
+PROD
+ …
+ PROD
+ TEST
+ DEV
+  [Protected] Distribution or modification is subject to approval ​
+ As Hub owner I have control and visibility on lateral and perimeter traffic
+ South Hub
+ North Hub
+ Architecting in the Cloud | The Blueprint | Conclusion
+ 

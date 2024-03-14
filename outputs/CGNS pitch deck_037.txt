@@ -1,0 +1,9 @@
+ [Protected] Distribution or modification is subject to approval ​
+ As Spoke owner I can add, remove and scale my applications at anytime, at any required speed
+ PROD
+ …
+ PROD
+ TEST
+ DEV
+ Architecting in the Cloud | The Blueprint | Conclusion
+ 

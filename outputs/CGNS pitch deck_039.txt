@@ -1,0 +1,15 @@
+As DevSecOps I have security & control without slowing anyone down
+  [Protected] Distribution or modification is subject to approval ​
+ New environments (spokes) are automatically secured
+ Segmented environments allow isolation of infected areas
+ Security deployments are automated
+ Advanced threat prevention using CloudGuard adaptive security
+ PROD
+ …
+ PROD
+ TEST
+ DEV
+ South Hub
+ North Hub
+ Architecting in the Cloud | The Blueprint | Conclusion
+ 
