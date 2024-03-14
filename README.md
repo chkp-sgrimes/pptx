@@ -3,8 +3,10 @@ Script that pulls text from powerpoint slides using the python-pptx module
 Powerpoint slides have shapes; line, picture, text frame, groups, etc
 - example slide hierarchy
     - text frame and groups
-        - group with text frames
-            - group with text frames
+        - group
+            - text frames
+            - group
+                - text frames
                 - ...
              
 
